@@ -32,8 +32,8 @@
     <p>
         Here are my latest commits, reflecting my continuous efforts to enhance and improve my coding journey. Each represents an aspect of problem-solving, creativity, and learning.
     </p>
-    <img src="https://raw.githubusercontent.com/akira-abdirashid/akira-abdirashid/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-    <img src="https://raw.githubusercontent.com/akira-abdirashid/akira-abdirashid/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+    <img src="https://raw.githubusercontent.com/Sunnahboy/Sunnahboy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+    <img src="https://raw.githubusercontent.com/Sunnahboy/Sunnahboy/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
@@ -66,7 +66,7 @@
     <!-- LabVIEW -->
     <img src="https://img.shields.io/badge/LabVIEW-FFB500?style=for-the-badge&logo=labview&logoColor=white" alt="LabVIEW"/>
     <!-- Chatbots -->
-    <img src="https://img.shields.io/badge/Chatbots-0052CC?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chatbots"/>
+    <img src="https://img.shields.io/badge/C-0052CC?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
 </div>
 
 
