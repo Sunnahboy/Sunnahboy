@@ -8,7 +8,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>
-        I'm Abdirashid Mohamed Akira, a passionate software developer specializing in Java and full-stack web development. Currently pursuing innovative solutions in system automation and user-centric application design. My interests include cloud computing, algorithm design, and exploring creative ways to solve real-world challenges.
+        I'm Abdirashid Mohamed Akira, Currently pursuing Computer science degree @apu(Asia pacific University). My interests include cloud computing, algorithm design, and exploring creative ways to solve real-world challenges.
     </p>
 </div>
 
