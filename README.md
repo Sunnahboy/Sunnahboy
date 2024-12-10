@@ -75,8 +75,8 @@
     <p>Explore the highlights of my GitHub activity below!</p>
     <table align="center" width="100%" height="100%">
         <tr>
-            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akira-abdirashid&theme=github_dark" alt="Abdirashid's GitHub Stats"/></td>
-            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=akira-abdirashid&theme=merko" alt="Abdirashid's Contribution Streak"/></td>
+            <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunnahboy&theme=github_dark" alt="Abdirashid's GitHub Stats"/></td>
+            <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnahboy&theme=merko" alt="Abdirashid's Contribution Streak"/></td>
         </tr>
     </table>
 </div>
