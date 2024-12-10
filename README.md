@@ -32,8 +32,8 @@
     <p>
         Here are my latest commits, reflecting my continuous efforts to enhance and improve my coding journey. Each represents an aspect of problem-solving, creativity, and learning.
     </p>
-   <img src="https://raw.githubusercontent.com/Sunnahboy/Sunnahboy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-<img src="https://raw.githubusercontent.com/Sunnahboy/Sunnahboy/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
+   <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+    <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 
 </div>
 
