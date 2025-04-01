@@ -1,32 +1,13 @@
-<div align="center">
+ <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey..+I'm+Abdirashid;Welcome+to+My+GitHub!;Computer+Science+Student;Cloud+Computing+Enthusiast;Problem+Solver" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey..+I'm+Abdirashid;Welcome+to+My+GitHub!;Computer+Science+Student;Software Enthusiast;Problem+Solver" alt="Typing SVG"/>
     </h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
+
+
 <div align="center">
-    <p>
-        <a href="https://www.linkedin.com/in/abdirashid-akira-a7929a24a">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="https://github.com/Sunnahboy">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-        <!-- You can add more social links here -->
-        <a href="mailto:your.email@example.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-    </p>
-</div>
-🚀 About Me
-I'm Abdirashid Mohamed Akira, a Computer Science student at Asia Pacific University (APU) with a passion for:
-
-💻 Cloud Computing and Infrastructure
-🧠 Algorithm Design and Optimization
-🌐 Web Development and Systems Architecture
-🔍 Solving Real-World Challenges Through Technology
-
-I believe in continuous learning and applying technical knowledge to create impactful solutions. Currently exploring the intersection of cloud technologies and software development to build scalable, efficient systems.
+    <h2>🚀 About Me</h2>
     <p>
         I'm Abdirashid Mohamed Akira, Currently pursuing Computer science degree @apu(Asia pacific University). My interests include cloud computing, algorithm design, and exploring creative ways to solve real-world challenges.
     </p>
@@ -86,6 +67,8 @@ I believe in continuous learning and applying technical knowledge to create impa
     <img src="https://img.shields.io/badge/C-0052CC?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
 </div>
 
+
+
 <div align="center">
     <h2 align="center" class="section-heading">💻 Github Stats</h2>
     <p>Explore the highlights of my GitHub activity below!</p>
@@ -95,4 +78,14 @@ I believe in continuous learning and applying technical knowledge to create impa
             <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Sunnahboy&theme=merko" alt="Abdirashid's Contribution Streak"/></td>
         </tr>
     </table>
+</div>
+
+📈 My Coding Journey
+
+🎓 2023-2026-Present: Pursuing Computer Science at Asia Pacific University
+
+📫 Let's Connect!
+I'm always open to interesting conversations, collaboration opportunities, and new connections in the tech community. Feel free to reach out if you're interested in working together or just want to chat about technology!
+<div align="center">
+    <i>⭐️ From [Sunnahboy](https://github.com/Sunnahboy)</i>
 </div>
